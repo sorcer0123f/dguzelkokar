@@ -8,3 +8,5 @@ Model the game board accordingly to:
 4. Black squares without numbers as "-1"
 5. Have one space spacing between numbers.
 6. Endline after a row ends.
+
+Assign the name of the text file containing the board representation to the variable filename in main.py.
